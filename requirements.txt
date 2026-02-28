@@ -1,0 +1,12 @@
+pageindex
+ipykernel
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain
+langchain-text-splitters
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
